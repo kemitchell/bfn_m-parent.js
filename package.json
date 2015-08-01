@@ -1,0 +1,11 @@
+{
+  "name": "bfn_m-parent",
+  "description": "depends on a package that uses a script from a dependency",
+  "version": "0.0.0",
+  "dependencies": {
+    "bfn_m-child": "kemitchell/bfn_m-child.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": "kemitchell/bfn_m-parent"
+}
