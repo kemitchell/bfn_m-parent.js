@@ -3,7 +3,7 @@
   "description": "depends on a package that uses a script from a dependency",
   "version": "0.0.0",
   "dependencies": {
-    "bfn_m-child": "kemitchell/bfn_m-child.js"
+    "bfn_m-child": "*"
   },
   "license": "MIT",
   "repository": "kemitchell/bfn_m-parent"
