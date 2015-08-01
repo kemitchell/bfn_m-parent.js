@@ -1,7 +1,7 @@
 {
   "name": "bfn_m-parent",
   "description": "depends on a package that uses a script from a dependency",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
     "bfn_m-child": "*"
   },
