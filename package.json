@@ -6,6 +6,5 @@
     "bfn_m-child": "kemitchell/bfn_m-child.js"
   },
   "license": "MIT",
-  "private": true,
   "repository": "kemitchell/bfn_m-parent"
 }
